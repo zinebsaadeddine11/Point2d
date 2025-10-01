@@ -1,6 +1,3 @@
-# Point2D
-
-Une Classe qui sert à représenter des points dans un espace 2D.
 
 # Description
 
