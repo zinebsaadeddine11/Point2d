@@ -17,6 +17,6 @@ Ce projet définit une classe Point2D permettant de :
 
 
 # Fichiers
-**Point.h** : définition de la classe Point
-**Point.cpp** : implémentation de la classe
-**Point2d.cpp** : "main" exemple d’utilisation de la classe
+- **Point.h** : définition de la classe Point
+- **Point.cpp** : implémentation de la classe
+- **Point2d.cpp** : "main" exemple d’utilisation de la classe
