@@ -3,7 +3,7 @@ class Point
 {
 private:
 	float x, y;
-public :
+public:
 	Point(float, float);
 	float distance(Point);
 	void afficher();
